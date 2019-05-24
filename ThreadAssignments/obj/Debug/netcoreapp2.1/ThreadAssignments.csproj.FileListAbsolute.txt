@@ -1,0 +1,11 @@
+C:\Users\HurtigHanne\source\repos\ThreadAssignments\bin\Debug\netcoreapp2.1\ThreadAssignments.deps.json
+C:\Users\HurtigHanne\source\repos\ThreadAssignments\bin\Debug\netcoreapp2.1\ThreadAssignments.runtimeconfig.json
+C:\Users\HurtigHanne\source\repos\ThreadAssignments\bin\Debug\netcoreapp2.1\ThreadAssignments.runtimeconfig.dev.json
+C:\Users\HurtigHanne\source\repos\ThreadAssignments\bin\Debug\netcoreapp2.1\ThreadAssignments.dll
+C:\Users\HurtigHanne\source\repos\ThreadAssignments\bin\Debug\netcoreapp2.1\ThreadAssignments.pdb
+C:\Users\HurtigHanne\source\repos\ThreadAssignments\obj\Debug\netcoreapp2.1\ThreadAssignments.csprojAssemblyReference.cache
+C:\Users\HurtigHanne\source\repos\ThreadAssignments\obj\Debug\netcoreapp2.1\ThreadAssignments.csproj.CoreCompileInputs.cache
+C:\Users\HurtigHanne\source\repos\ThreadAssignments\obj\Debug\netcoreapp2.1\ThreadAssignments.AssemblyInfoInputs.cache
+C:\Users\HurtigHanne\source\repos\ThreadAssignments\obj\Debug\netcoreapp2.1\ThreadAssignments.AssemblyInfo.cs
+C:\Users\HurtigHanne\source\repos\ThreadAssignments\obj\Debug\netcoreapp2.1\ThreadAssignments.dll
+C:\Users\HurtigHanne\source\repos\ThreadAssignments\obj\Debug\netcoreapp2.1\ThreadAssignments.pdb
